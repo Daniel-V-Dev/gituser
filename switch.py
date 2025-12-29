@@ -17,7 +17,6 @@ def switch_user(username, email, local):
     subprocess.run(username_cmd)
     subprocess.run(email_cmd)
 
-
 def switch_user_by_label(label, local):
     home_dir = Path.home()
     file_path = home_dir / ".gitlist"
