@@ -6,13 +6,15 @@ A simple command tool for managing git users.
 - Terminal
 
 ## Installation
-You can download the executable file [here]() and add the program's `PATH` into your own system.
+You can download the executable file [here](https://github.com/Daniel-V-Dev/gituser/releases/tag/v.1.0) and add the program's `PATH` to your own system.
 
 Or you can clone this project and install them manually by:
 
 ```bash
 git clone https://github.com/Daniel-V-Dev/gituser
 ```
+
+Make sure you have Python installed in your system.
 
 Then create a venv in the cloned directory and activate it. Check the [documentation here](https://docs.python.org/3/library/venv.html).
 
